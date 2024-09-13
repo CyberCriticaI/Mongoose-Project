@@ -1,5 +1,6 @@
 const Bike = require('../controllers/bikeController')
-const router = express.Router()
+const express = require ('express')
+// const router = express.Router()
 // I am the routes file for Bikes.... my job is to route all different actions that pertain to the Bike model && link them to a route
 
 
